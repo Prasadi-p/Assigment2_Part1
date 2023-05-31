@@ -14,7 +14,7 @@ spec:
         app: webapp
     spec:
       containers:
-      - name: dockerdemokubappxx
-        image: prasadimanjula/dockerdemokubxx:V1
+      - name: dockerassikubapp
+        image: prasadimanjula/dockerassikub:V1
         ports:
         - containerPort: 80
